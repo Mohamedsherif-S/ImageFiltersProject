@@ -8,7 +8,7 @@
 
 **A professional image processing application with 17+ filters for image manipulation**
 
-[الوثائق بالعربية](#-الوثائق-بالعربية) | [English Documentation](#english-documentation)
+[English Documentation](#english-documentation)
 
 </div>
 
