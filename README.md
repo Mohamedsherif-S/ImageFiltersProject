@@ -8,8 +8,6 @@
 
 **A professional image processing application with 17+ filters for image manipulation**
 
-[English Documentation](#english-documentation)
-
 </div>
 
 ---
